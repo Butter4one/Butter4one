@@ -1,8 +1,8 @@
-Hi, I’m @Butter4one
-I'm currently doing things
+Hi, I’m @Butter4one, 
+I'm currently doing things. 
 Email me if you want i guess :/
-Pronouns: He/They
-Projects:
+- Pronouns: He/They
+- Projects:
 - P:UI
 - P:UI | online mode
 
